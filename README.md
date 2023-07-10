@@ -1,0 +1,1 @@
+yarn create next-app . : create front-end folder inside the current repo
