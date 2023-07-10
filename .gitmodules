@@ -1,0 +1,3 @@
+[submodule "nextjs-smartcontract-lottery"]
+	path = nextjs-smartcontract-lottery
+	url = https://github.com/MMtis/nextjs-smartcontract-lottery
